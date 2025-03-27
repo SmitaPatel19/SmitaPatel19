@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Smita Patel! 👋 🚀</h1>  
+<h1 align="center">Hi there, I'm Smita Patel! 👋 </h1>  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=700&lines=Flutter+Developer+%7C+ML+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
