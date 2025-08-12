@@ -74,7 +74,7 @@
 ---
 
 ## 🏆 Certifications 
-🎖️ [Machine Learning Specialization (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/specialization/certificate/NUWDWKTNALQ8) 
+🎖️ [Machine Learning Specialization (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/specialization/certificate/NUWDWKTNALQ8)  
 🎖️ [Supervised Machine Learning (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/certificate/G4LV5J0HPAGF)  
 🎖️ [Advanced Learning Algorithms (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/certificate/KMAJF0DRZWT4)  
 🎖️ [Hackerrank Skill Certificate](https://www.hackerrank.com/certificates/0747b435d40f)  
