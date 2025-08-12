@@ -4,10 +4,10 @@
 </p>
 
 ## 🎯 About Me  
-
+🌐 **Portfolio:** [smita-patel.dev](https://smitapatel19.github.io/Smita_Patel_Portfolio_Website/)  
 🎓 **B.Tech in Computer Science & Engineering (IIIT Vadodara, 2026)**  
 💻 **Flutter Developer | ML Enthusiast | Competitive Programmer**  
-🌱 **Currently learning:** Advanced Flutter, Riverpod, Firebase Cloud Functions  
+🌱 **Currently learning:** Advanced Flutter, BLoC, Firebase Cloud Functions  
 👯 **Looking to collaborate on:** Open-source Flutter and ML projects  
 ⚡ **Fun fact:** I love coding challenges!  
 
@@ -73,9 +73,10 @@
 
 ---
 
-## 🏆 Certifications  
-🎖️ [Supervised Machine Learning (Coursera)](https://www.coursera.org/account/accomplishments/certificate/G4LV5J0HPAGF)  
-🎖️ [Advanced Learning Algorithms (Coursera)](https://www.coursera.org/account/accomplishments/certificate/KMAJF0DRZWT4)  
+## 🏆 Certifications 
+🎖️ [Machine Learning Specialization (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/specialization/certificate/NUWDWKTNALQ8) 
+🎖️ [Supervised Machine Learning (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/certificate/G4LV5J0HPAGF)  
+🎖️ [Advanced Learning Algorithms (Stanford University)– Coursera (2025)](https://www.coursera.org/account/accomplishments/certificate/KMAJF0DRZWT4)  
 🎖️ [Hackerrank Skill Certificate](https://www.hackerrank.com/certificates/0747b435d40f)  
 
 ---
@@ -90,7 +91,7 @@
 <!--START_SECTION:activity-->
 1. 🛠️ Working on **ML-powered Flutter applications**  
 2. 🎯 Solving **DSA challenges on LeetCode**  
-3. 🔥 Exploring **Riverpod & Firebase Cloud Functions**  
+3. 🔥 Exploring **BLoC & Firebase Cloud Functions**  
 <!--END_SECTION:activity-->
 
 ---
