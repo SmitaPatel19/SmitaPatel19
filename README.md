@@ -29,6 +29,23 @@
 
 ---
 
+## 💼 Work Experience  
+
+### 🚀 **Flutter Developer Intern** – [Aigetai Pvt. Ltd.](https://drive.google.com/file/d/1tK-ynw6FVFz8jFjmWEbXK4UUkB0qLdWp/view?usp=sharing) *(Apr 2025 – Present)*  
+- Built and deployed scalable **Flutter (MVVM)** features for an AI-powered browser, including bookmark management, Netflix-style content display, and music player.  
+- Integrated and tested **REST APIs** using Postman, optimizing request handling and collaborating in a 5-member agile team for code reviews and debugging.  
+
+### 💻 **Flutter Developer Intern** – [Miracuves Solutions Pvt. Ltd. (Remote)](https://drive.google.com/file/d/1zHXcnp6TmkkwxAAyadYqbR4A4DPxir9c/view?usp=sharing) *(May 2025 – Jul 2025)*  
+- Enhanced multiple production-grade Flutter apps, reducing crash rates and improving load times by **35%**.  
+- Key Projects: Astrologer App *(real-time chat, secure payment)*, Uber-like Ride App *(live GPS, fare algorithms, Google Maps API)*, E-commerce Apps *(UI optimization, checkout flow)*, Instagram-like App *(feed UI, API handling)*.  
+- Migrated legacy apps to latest SDKs, lowering technical debt and improving maintainability.  
+
+### 📱 **Android Developer Trainee** – [Reto India Pvt. Ltd. (Remote)](https://drive.google.com/file/d/1MyhcJcJG82vBFw9zUq5X28UDKKIDdoi8/view?usp=sharing) *(May 2025 – Jul 2025)*  
+- Developed E-commerce *(Firebase auth, payment gateway, responsive UI)* and Uber-like Map Apps *(Google Maps API, route optimization with **+20% delivery accuracy**)*.  
+- Collaborated in agile sprints, ensuring **100% on-time** feature delivery, QA testing, and code review participation.  
+
+---
+
 ## 📌 Featured Projects  
 ### 📱 **Chatting App** ([GitHub](https://github.com/SmitaPatel19/My_Whatsapp))  
 🔹 **WhatsApp-like chat app using Flutter & Firebase**  
