@@ -31,7 +31,7 @@
 
 ## 💼 Work Experience  
 
-### 🚀 **Flutter Developer Intern** – [Aigetai Pvt. Ltd.](https://drive.google.com/file/d/1tK-ynw6FVFz8jFjmWEbXK4UUkB0qLdWp/view?usp=sharing) *(Apr 2025 – Present)*  
+### 🚀 **Flutter Developer Intern** – [Aigetai Pvt. Ltd. (Remote)](https://drive.google.com/file/d/1tK-ynw6FVFz8jFjmWEbXK4UUkB0qLdWp/view?usp=sharing) *(Apr 2025 – Present)*  
 - Built and deployed scalable **Flutter (MVVM)** features for an AI-powered browser, including bookmark management, Netflix-style content display, and music player.  
 - Integrated and tested **REST APIs** using Postman, optimizing request handling and collaborating in a 5-member agile team for code reviews and debugging.  
 
